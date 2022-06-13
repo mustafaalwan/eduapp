@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "457762803202",
+    "project_id": "eduiq-a5754",
+    "storage_bucket": "eduiq-a5754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457762803202:android:b6bc6e119929ed484e211b",
+        "android_client_info": {
+          "package_name": "com.eduiq.codegen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457762803202-jdp1askcjvfa9g1r18mrk7m7tb1c0k6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eduiq.codegen",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "457762803202-cnvrkdg83ejqhsab33if6q68kbjhcdau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_OXdJKDfVqlr95cYjv9cUWHA0QJmVPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457762803202-cnvrkdg83ejqhsab33if6q68kbjhcdau.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457762803202-ldnh4v2esb7vk49909q3c0kte4c6jkdi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eduiq.codegen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

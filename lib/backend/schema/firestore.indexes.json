@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "course",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "userID",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "CourseDate",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
